@@ -1,0 +1,15 @@
+{
+  "name": "musikhjalpen2024",
+  "version": "1.0.0",
+  "description": "",
+  "main": "musikhjalpen2023.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "install": "^0.13.0",
+    "pnpm": "^9.14.4"
+  }
+}
