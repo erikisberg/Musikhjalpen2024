@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
     
     </style>
 `;
- s
+
 document.head.insertAdjacentHTML('beforeend', googleFontLink);
     
 
